@@ -101,7 +101,7 @@ body{
 }
 
 #content main article {
-    border-bottom: 1px dashed #808080;
+    border-bottom: 1px dashed black;
     margin: 30px;
 }
 
